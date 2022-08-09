@@ -1,2 +1,16 @@
-# Delivery-App
- 
+# Delivery-App ScreenShots
+
+![WhatsApp Image 2022-08-09 at 6 02 13 PM](https://user-images.githubusercontent.com/78531324/183623343-57128f38-cfc1-44f7-a897-677031c706b7.jpeg)
+![WhatsApp Image 2022-08-09 at 3 49 24 PM](https://user-images.githubusercontent.com/78531324/183623443-331f537a-75f2-406d-9f5b-a9eeed0404b0.jpeg)
+![WhatsApp Image 2022-08-09 at 6 02 14 PM](https://user-images.githubusercontent.com/78531324/183623469-d71ad3b1-927e-41f1-b07f-105ca58b9a3f.jpeg)
+![WhatsApp Image 2022-08-09 at 6 02 15 PM](https://user-images.githubusercontent.com/78531324/183623486-b70e7b73-c487-47c4-960e-5ead68403d77.jpeg)
+![WhatsApp Image 2022-08-09 at 6 02 15 PM (1)](https://user-images.githubusercontent.com/78531324/183623530-1039dd25-7599-4251-b637-fb26f52ae440.jpeg)
+![WhatsApp Image 2022-08-09 at 6 02 16 PM](https://user-images.githubusercontent.com/78531324/183623539-2d1c2100-80dd-401d-a127-dfa8956e9e25.jpeg)
+![WhatsApp Image 2022-08-09 at 6 02 16 PM (1)](https://user-images.githubusercontent.com/78531324/183623547-9ee95028-e1d4-491d-ba65-f0a81f519f0f.jpeg)
+![WhatsApp Image 2022-08-09 at 6 02 17 PM](https://user-images.githubusercontent.com/78531324/183623563-fe530e01-1814-4fc1-8d69-e217bb996675.jpeg)
+![WhatsApp Image 2022-08-09 at 6 02 18 PM](https://user-images.githubusercontent.com/78531324/183623583-137e44f4-d03d-45fc-aed2-30c81b4bdd2f.jpeg)
+![WhatsApp Image 2022-08-09 at 6 02 18 PM (1)](https://user-images.githubusercontent.com/78531324/183623603-bd3ee90c-92d4-4475-9c7f-4d2b2abed2ed.jpeg)
+![WhatsApp Image 2022-08-09 at 6 02 19 PM](https://user-images.githubusercontent.com/78531324/183623614-45985bcd-8f83-4698-b35d-74bf5a0b0f90.jpeg)
+![WhatsApp Image 2022-08-09 at 6 02 19 PM (1)](https://user-images.githubusercontent.com/78531324/183623628-06c8ee33-164e-4ed0-8d1c-1146794d5bd6.jpeg)
+![WhatsApp Image 2022-08-09 at 6 02 20 PM](https://user-images.githubusercontent.com/78531324/183623642-682f064d-33de-4459-ad27-f75e42d1262e.jpeg)
+![WhatsApp Image 2022-08-09 at 6 02 21 PM](https://user-images.githubusercontent.com/78531324/183623657-949492ac-c668-4d86-8adb-e6ae218b2868.jpeg)
