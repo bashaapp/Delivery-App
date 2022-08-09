@@ -14,3 +14,5 @@
 ![WhatsApp Image 2022-08-09 at 6 02 19 PM (1)](https://user-images.githubusercontent.com/78531324/183623628-06c8ee33-164e-4ed0-8d1c-1146794d5bd6.jpeg)
 ![WhatsApp Image 2022-08-09 at 6 02 20 PM](https://user-images.githubusercontent.com/78531324/183623642-682f064d-33de-4459-ad27-f75e42d1262e.jpeg)
 ![WhatsApp Image 2022-08-09 at 6 02 21 PM](https://user-images.githubusercontent.com/78531324/183623657-949492ac-c668-4d86-8adb-e6ae218b2868.jpeg)
+![sandwish-screen](https://user-images.githubusercontent.com/78531324/183623855-b0cdfc71-c03c-4f71-8df2-81f60004765c.jpg)
+![splash-screen-1](https://user-images.githubusercontent.com/78531324/183623860-df45bb56-48d5-4981-bb7f-3d256e3f871e.jpg)
