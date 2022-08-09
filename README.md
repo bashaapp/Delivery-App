@@ -1,6 +1,5 @@
 # Delivery-App ScreenShots
-![1](https://user-images.githubusercontent.com/78531324/183629858-a6e3645b-98c1-4443-b1a9-dfcb6966067f.jpg)   
-![2](https://user-images.githubusercontent.com/78531324/183629856-a45f2a67-fb9a-421e-a910-505caf2e874a.jpg)
+![1](https://user-images.githubusercontent.com/78531324/183629858-a6e3645b-98c1-4443-b1a9-dfcb6966067f.jpg)![2](https://user-images.githubusercontent.com/78531324/183629856-a45f2a67-fb9a-421e-a910-505caf2e874a.jpg)
 ![3](https://user-images.githubusercontent.com/78531324/183629850-0b70e3db-1ca3-48ca-b253-013ee2194ee2.jpg)
 ![4](https://user-images.githubusercontent.com/78531324/183629890-0a3c49ee-a8e9-4ede-8f95-9840910848ae.jpg)
 ![5](https://user-images.githubusercontent.com/78531324/183629886-70220919-d3e5-410d-be77-2b8af4b1a3d7.jpg)
